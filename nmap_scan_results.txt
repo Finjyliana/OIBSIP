@@ -1,4 +1,0 @@
-#Task 1:Basic netowork scanning using Nmap
-
-##Objective: Perform a network scan to identify open ports and services using Nmap.
-
